@@ -2,7 +2,9 @@
 
 ![image](https://github.com/user-attachments/assets/5e6d9578-af40-41e3-b0e3-ab7c55681e08)
 
-(https://miguell-j.github.io/Bloch-Sphere-Simulator/)
+< a href="https://miguell-j.github.io/Bloch-Sphere-Simulator/"
+/>
+
 
 A web-based interactive quantum state visualization tool that allows users to explore and manipulate qubit states through a 3D representation of the Bloch sphere.
 
